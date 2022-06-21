@@ -29,13 +29,18 @@
 ## **Vite**
 ![img](./assets/vite.jpg)
 * ### **¿Que es vite?**
-  ### Se define como una herramienta de frontend que nos ayudará a crear proyectos de forma agnóstica *(sin atarte a ningún framework concreto)* y que su desarrollo y construcción final sea lo más sencilla y cómoda posible
-* ### **¿Cómo crear un proyecto con Vite?**
-  ### (1). *`node -v`*
-  ### (2). *`node -v`*
-  ### (3). *`node -v`*
-  ### (4). *`node -v`*
-  ### (5). *`node -v`*
+  #### Se define como una herramienta de frontend que nos ayudará a crear proyectos de forma agnóstica *(sin atarte a ningún framework concreto)* y que su desarrollo y construcción final sea lo más sencilla y cómoda posible
+* ### **¿Cómo crear y correr un proyecto con Vite?**
+  #### Debemos de escribir los siguientes comandos en nuestra terminal o cmd.
+  #### (1). `npm create vite@latest primera-app-react --template react`
+  #### Nos aparecera las siguientes opciones y en nuestro caso elegimos react.
+  ![img](./assets/vite1.PNG)
+  #### Luego nos menciona si queremos usar react con typescript o no, seleccionamos solo react.
+  ![img](./assets/vite2.PNG)
+  #### Por ultimo devemos de escribir los comandos de forma ordenada como se nos muestra para poder correr el proyecto.
+  ![img](./assets/vite3.PNG)
+  #### Despues de ejecutar el ultimo comado ya mostrado anteriormente nos dirigimos al link que nos presenta y este seria el resultado final.
+  ![img](./assets/vite4.PNG)
 
 ---
 ## **Vercel**
